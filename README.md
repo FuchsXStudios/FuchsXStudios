@@ -17,7 +17,7 @@ Ich arbeite immer gerne an neuen Projekten und lerne dabei ständig dazu!
 
 Hier sind einige meiner coolen Projekte:
 
-- [Projekt 1 Name](#) ✨ - Eine kurze Beschreibung deines Projekts
+- [Sharing Website](#) ✨ - Eine Website, für's Dateien Sharing. Ganz Simpel.
 - [Projekt 2 Name](#) ✨ - Eine kurze Beschreibung deines Projekts
 - [Projekt 3 Name](#) ✨ - Eine kurze Beschreibung deines Projekts
 
